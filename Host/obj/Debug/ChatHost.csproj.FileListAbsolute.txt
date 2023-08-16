@@ -1,0 +1,34 @@
+D:\My projects\0_C#\Lessons\wcf_chat\ChatHost\bin\Debug\ChatHost.exe.config
+D:\My projects\0_C#\Lessons\wcf_chat\ChatHost\bin\Debug\ChatHost.exe
+D:\My projects\0_C#\Lessons\wcf_chat\ChatHost\bin\Debug\ChatHost.pdb
+D:\My projects\0_C#\Lessons\wcf_chat\ChatHost\bin\Debug\wcf_chat.dll
+D:\My projects\0_C#\Lessons\wcf_chat\ChatHost\bin\Debug\wcf_chat.pdb
+D:\My projects\0_C#\Lessons\wcf_chat\ChatHost\bin\Debug\wcf_chat.dll.config
+D:\My projects\0_C#\Lessons\wcf_chat\ChatHost\obj\Debug\ChatHost.csprojResolveAssemblyReference.cache
+D:\My projects\0_C#\Lessons\wcf_chat\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+D:\My projects\0_C#\Lessons\wcf_chat\ChatHost\obj\Debug\ChatHost.exe
+D:\My projects\0_C#\Lessons\wcf_chat\ChatHost\obj\Debug\ChatHost.pdb
+D:\Nikita\wcf_chat\ChatHost\obj\Debug\ChatHost.csproj.AssemblyReference.cache
+D:\Nikita\wcf_chat\ChatHost\obj\Debug\ChatHost.csproj.SuggestedBindingRedirects.cache
+D:\Nikita\wcf_chat\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+D:\Nikita\wcf_chat\ChatHost\obj\Debug\ChatHost.exe
+D:\Nikita\wcf_chat\ChatHost\obj\Debug\ChatHost.pdb
+D:\Nikita\wcf_chat\ChatHost\bin\Debug\ChatHost.exe.config
+D:\Nikita\wcf_chat\ChatHost\bin\Debug\ChatHost.exe
+D:\Nikita\wcf_chat\ChatHost\bin\Debug\ChatHost.pdb
+D:\Nikita\wcf_chat\ChatHost\bin\Debug\wcf_chat.dll
+D:\Nikita\wcf_chat\ChatHost\bin\Debug\wcf_chat.pdb
+D:\Nikita\wcf_chat\ChatHost\bin\Debug\wcf_chat.dll.config
+D:\Nikita\wcf_chat\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+E:\Nikita\wcf_chat\ChatHost\bin\Debug\wcf_chat.dll
+E:\Nikita\wcf_chat\ChatHost\bin\Debug\wcf_chat.pdb
+E:\Nikita\wcf_chat\ChatHost\bin\Debug\wcf_chat.dll.config
+E:\Nikita\wcf_chat\ChatHost\obj\Debug\ChatHost.csproj.AssemblyReference.cache
+E:\Nikita\wcf_chat\ChatHost\obj\Debug\ChatHost.csproj.SuggestedBindingRedirects.cache
+E:\Nikita\wcf_chat\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+E:\Nikita\wcf_chat\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+E:\Nikita\wcf_chat\ChatHost\bin\Debug\Host.exe.config
+E:\Nikita\wcf_chat\ChatHost\bin\Debug\Host.exe
+E:\Nikita\wcf_chat\ChatHost\bin\Debug\Host.pdb
+E:\Nikita\wcf_chat\ChatHost\obj\Debug\Host.exe
+E:\Nikita\wcf_chat\ChatHost\obj\Debug\Host.pdb

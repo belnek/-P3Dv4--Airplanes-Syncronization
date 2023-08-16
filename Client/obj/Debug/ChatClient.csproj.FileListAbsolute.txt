@@ -1,0 +1,51 @@
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\bin\Debug\ChatClient.exe.config
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\bin\Debug\ChatClient.exe
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\bin\Debug\ChatClient.pdb
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\MainWindow.g.cs
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\App.g.cs
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\MainWindow.baml
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\ChatClient.g.resources
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\ChatClient.exe
+D:\My projects\0_C#\Lessons\wcf_chat\ChatClient\obj\Debug\ChatClient.pdb
+D:\Nikita\wcf_chat\ChatClient\bin\Debug\ChatClient.exe.config
+D:\Nikita\wcf_chat\ChatClient\bin\Debug\ChatClient.exe
+D:\Nikita\wcf_chat\ChatClient\bin\Debug\ChatClient.pdb
+D:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+D:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+D:\Nikita\wcf_chat\ChatClient\obj\Debug\MainWindow.g.cs
+D:\Nikita\wcf_chat\ChatClient\obj\Debug\App.g.cs
+D:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+D:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+D:\Nikita\wcf_chat\ChatClient\obj\Debug\MainWindow.baml
+D:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient.g.resources
+D:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+D:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient.exe
+D:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient.pdb
+D:\Nikita\wcf_chat\ChatClient\bin\Debug\LockheedMartin.Prepar3D.SimConnect.dll
+D:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.CopyComplete
+E:\Nikita\wcf_chat\ChatClient\bin\Debug\ChatClient.exe.config
+E:\Nikita\wcf_chat\ChatClient\bin\Debug\ChatClient.exe
+E:\Nikita\wcf_chat\ChatClient\bin\Debug\ChatClient.pdb
+E:\Nikita\wcf_chat\ChatClient\bin\Debug\LockheedMartin.Prepar3D.SimConnect.dll
+E:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+E:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+E:\Nikita\wcf_chat\ChatClient\obj\Debug\MainWindow.g.cs
+E:\Nikita\wcf_chat\ChatClient\obj\Debug\App.g.cs
+E:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+E:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+E:\Nikita\wcf_chat\ChatClient\obj\Debug\MainWindow.baml
+E:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient.g.resources
+E:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+E:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+E:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+E:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient.csproj.CopyComplete
+E:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient.exe
+E:\Nikita\wcf_chat\ChatClient\obj\Debug\ChatClient.pdb

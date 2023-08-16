@@ -1,0 +1,12 @@
+E:\Nikita\wcf_sync\Host\bin\Debug\Host.exe.config
+E:\Nikita\wcf_sync\Host\bin\Debug\Host.exe
+E:\Nikita\wcf_sync\Host\bin\Debug\Host.pdb
+E:\Nikita\wcf_sync\Host\bin\Debug\wcf_chat.dll
+E:\Nikita\wcf_sync\Host\bin\Debug\wcf_chat.pdb
+E:\Nikita\wcf_sync\Host\bin\Debug\wcf_chat.dll.config
+E:\Nikita\wcf_sync\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+E:\Nikita\wcf_sync\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+E:\Nikita\wcf_sync\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+E:\Nikita\wcf_sync\Host\obj\Debug\Host.csproj.CopyComplete
+E:\Nikita\wcf_sync\Host\obj\Debug\Host.exe
+E:\Nikita\wcf_sync\Host\obj\Debug\Host.pdb
